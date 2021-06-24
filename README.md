@@ -1,2 +1,2 @@
-# codingCryptSwiftUI--iOS
-Basic Image and title app with SwiftUI
+# starterAppsSwiftUI--iOS
+codingCrypt : Basic Image and title app with SwiftUI
